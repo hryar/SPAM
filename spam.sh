@@ -42,25 +42,24 @@ fi
 #batas gan
 if [ $pil = 3 ]
 then
-git clone https://github.com/hryar/bb
-cd brutalspammer
+git clone https://github.com/hryar/Brutal-Spam-Sms
+cd Brutal-Spam-Sms
 ls
-python BrutalSpammer.py
+python2 brutalspammer.py
 fi
 #batas gan
 if [ $pil = 4 ]
 then
-git clone https://github.com/4L13199/LITESPAM.git
-cd LITESPAM
+git clone https://github.com/hryar/Spam-Unlimited-Sms
+cd Spam-Unlimited-Sms
 ls
-sh LITESPAM.sh
+sh uimitedsms.sh
 fi
 #batas gan
 if [ $pil = 5 ]
 then
-git clone https://github.com/KANG-NEWBIE/SpamSms
-cd SpamSms
+git clone https://github.com/hryar/Spam-Sms
+cd Spam-Sms
 ls
-python main.py
+python2 spamsms.py
 fi
-#batas gan
