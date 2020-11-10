@@ -7,11 +7,11 @@ cy='\33[36;1m' #cyan
 me='\33[31;1m' #merah
 pu='\33[37;1m' #putih
 ku='\33[33;1m' #kuning
-echo $me"             SUBSCRIBE.LIKE.COMENT"
+echo $me"          SUBSCRIBE-LIKE-COMENT"
 echo $ku"╭━─━─━─≪✠≫─━─━─━─━──━─━───━─━─≪✠≫─━─━─━╮"
 echo $pr"|  AUTHOR  :"$cy"Hry Ar                     |"
 echo $pr"|  YOUTUBE :"$cy"HARRY ARBI                 |"
-echo $pr"|  VERSI   :"$cy"VERSI ANDROID 6.0+9.0      |"
+echo $pr"|  FB      :"$cy"@arbi0510                  |"
 echo $ku"╰━─━─━─≪✠≫─━─━──━─━──━─━──━─━─≪✠≫─━─━─━╯"
 echo
 echo $me"╔══╗ ♪  "$bi"[1]"$ku" SPAM TELPHONE 1"
@@ -21,7 +21,7 @@ echo $me"╚══╝♪ ♪ "$bi"[4]"$ku" SPAM UNLIMITED SMS"
 echo $pr" ︻╦̵̵̿╤─ ҉ "$bi"[5]"$ku" SPAM SMS/WA GRATIS"
 echo
 echo $cy"█▬█ █ ▀█▀"
-   read -p "|░P░A░N░D░O░R░A░ :SPAM: " pil :
+   read -p "|░H░A░C░K░E░R░S░ SPAM : " pil :
 
 #batas gan
 if [ $pil = 1 ]
