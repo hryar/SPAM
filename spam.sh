@@ -8,16 +8,17 @@ me='\33[31;1m' #merah
 pu='\33[37;1m' #putih
 ku='\33[33;1m' #kuning
 echo $me"╭━─━─━─≪✠≫─━─━─━─━──━─━───━─━─≪✠≫─━─━─━╮"
-echo $me"|  "$pr"Admin   : "$ku"Hry Ar                    "$me"|"
-echo $me"|  "$pr"GitHub  : "$ku"github.com/hryar          "$me"|"
-echo $me"|  "$pr"YoeTube : "$ku"HARRY ARBI                "$me"|"
+echo $me"|  "$cy"Admin   : "$pr"Hry Ar                    "$me"|"
+echo $me"|  "$cy"GitHub  : "$pr"github.com/hryar          "$me"|"
+echo $me"|  "$cy"YoeTube : "$pr"HARRY ARBI                "$me"|"
 echo $me"╰━─━─━─≪✠≫─━─━──━─━──━─━──━─━─≪✠≫─━─━─━╯"
 echo
-echo $bi"[1]"$cy" SPAM TELPHONE 1"
-echo $bi"[2]"$cy" SPAM TELPHONE 2"
-echo $bi"[3]"$cy" SPAM BRUTALL SMS"
-echo $bi"[4]"$cy" SPAM UNLIMITED SMS"
-echo $bi"[5]"$cy" SPAM SMS"
+echo $ij"MENU :
+echo $bi"[1]"$ku" SPAM TELPHONE 1"
+echo $bi"[2]"$ku" SPAM TELPHONE 2"
+echo $bi"[3]"$ku" SPAM BRUTALL SMS"
+echo $bi"[4]"$ku" SPAM UNLIMITED SMS"
+echo $bi"[5]"$ku" SPAM SMS"
 echo
 read -p "Pilih No : " pil :
 
