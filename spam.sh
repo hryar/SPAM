@@ -8,18 +8,18 @@ me='\33[31;1m' #merah
 pu='\33[37;1m' #putih
 ku='\33[33;1m' #kuning
 echo $me"╭━─━─━─≪✠≫─━─━─━─━──━─━───━─━─≪✠≫─━─━─━╮"
-echo $me"|  "$pu"Admin   :"$ku"Hry Ar                     "$me"|"
-echo $me"|  "$pu"GitHub  :"$ku"github.com/hryar           "$me"|"
-echo $me"|  "$pu"YoeTube :"$ku"HARRY ARBI                 "$me"|"
+echo $me"|  "$pr"Admin   : "$ku"Hry Ar                    "$me"|"
+echo $me"|  "$pr"GitHub  : "$ku"github.com/hryar          "$me"|"
+echo $me"|  "$pr"YoeTube : "$ku"HARRY ARBI                "$me"|"
 echo $me"╰━─━─━─≪✠≫─━─━──━─━──━─━──━─━─≪✠≫─━─━─━╯"
 echo
-echo $me"[1]"$bi" SPAM TELPHONE 1"
-echo $me"[2]"$bi" SPAM TELPHONE 2"
-echo $me"[3]"$bi" SPAM BRUTALL SMS"
-echo $me"[4]"$bi" SPAM UNLIMITED SMS"
-echo $me"[5]"$bi" SPAM SMS"
+echo $bi"[1]"$pu" SPAM TELPHONE 1"
+echo $bi"[2]"$pu" SPAM TELPHONE 2"
+echo $bi"[3]"$pu" SPAM BRUTALL SMS"
+echo $bi"[4]"$pu" SPAM UNLIMITED SMS"
+echo $bi"[5]"$pu" SPAM SMS"
 echo
-read -p "Pilih No : " pil :
+read -p "$cy"Pilih No : " pil :
 
 #batas gan
 if [ $pil = 1 ]
