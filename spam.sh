@@ -27,7 +27,7 @@ then
 git clone https://github.com/hryar/Spam-Telphone-1
 cd Spam-Telphone-1
 ls
-python spamtelphon1.py
+python spamtelphone1.py
 fi
 #batas gan
 if [ $pil = 2 ]
