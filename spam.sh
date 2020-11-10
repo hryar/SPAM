@@ -29,7 +29,7 @@ then
 git clone https://github.com/hryar/Spam-Telphone-1
 cd Spam-Telphone-1
 ls
-python2 spamtelphon1.py
+python spamtelphon1.py
 fi
 #batas gan
 if [ $pil = 2 ]
@@ -37,7 +37,7 @@ then
 git clone https://github.com/hryar/Spam-Telphone-2
 cd Spam-Telphone-2
 ls
-python2 spamtelphone2.py
+python spamtelphone2.py
 fi
 #batas gan
 if [ $pil = 3 ]
@@ -45,7 +45,7 @@ then
 git clone https://github.com/hryar/Brutal-Spam-Sms
 cd Brutal-Spam-Sms
 ls
-python2 brutalspammer.py
+python brutalspammer.py
 fi
 #batas gan
 if [ $pil = 4 ]
@@ -61,5 +61,5 @@ then
 git clone https://github.com/hryar/Spam-Sms
 cd Spam-Sms
 ls
-python2 spamsms.py
+python spamsms.py
 fi
