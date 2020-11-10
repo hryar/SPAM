@@ -7,11 +7,11 @@ cy='\33[36;1m' #cyan
 me='\33[31;1m' #merah
 pu='\33[37;1m' #putih
 ku='\33[33;1m' #kuning
-echo $ku"╭━─━─━─≪✠≫─━─━─━─━──━─━───━─━─≪✠≫─━─━─━╮"
-echo $ku"|  "$pr"AUTHOR  :"$cy"Hry Ar                     "$ku"|"
-echo $ku"|                                                     |"
-echo $ku"|  "$pr"YOUTUBE :"$cy"HARRY ARBI                 "$ku"|"
-echo $ku"╰━─━─━─≪✠≫─━─━──━─━──━─━──━─━─≪✠≫─━─━─━╯"
+echo $me"╭━─━─━─≪✠≫─━─━─━─━──━─━───━─━─≪✠≫─━─━─━╮"
+echo $me"|  "$pu"Admin   :"$ku"Hry Ar                     "$me"|"
+echo $me"|  "$pu"GitHub  :"$ku"github.com/hryar           "$me"|"
+echo $me"|  "$pu"YoeTube :"$ku"HARRY ARBI                 "$me"|"
+echo $me"╰━─━─━─≪✠≫─━─━──━─━──━─━──━─━─≪✠≫─━─━─━╯"
 echo
 echo $me"[1]"$bi" SPAM TELPHONE 1"
 echo $me"[2]"$bi" SPAM TELPHONE 2"
