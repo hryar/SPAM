@@ -7,21 +7,19 @@ cy='\33[36;1m' #cyan
 me='\33[31;1m' #merah
 pu='\33[37;1m' #putih
 ku='\33[33;1m' #kuning
-echo $me"         SUBSCRIBE-LIKE-COMENTS"
 echo $ku"╭━─━─━─≪✠≫─━─━─━─━──━─━───━─━─≪✠≫─━─━─━╮"
-echo $pr"|  AUTHOR  :"$cy"Hry Ar                     |"
-echo $pr"|  YOUTUBE :"$cy"HARRY ARBI                 |"
-echo $pr"|  FB      :"$cy"@arbi0510                  |"
+echo $ku"|  "$pr"AUTHOR  :"$cy"Hry Ar                     "$ku"|"
+echo $ku"|                                                     |"
+echo $ku"|  "$pr"YOUTUBE :"$cy"HARRY ARBI                 "$ku"|"
 echo $ku"╰━─━─━─≪✠≫─━─━──━─━──━─━──━─━─≪✠≫─━─━─━╯"
 echo
-echo $me"╔══╗ ♪  "$bi"[1]"$ku" SPAM TELPHONE 1"
-echo $me"║██║ ♫  "$bi"[2]"$ku" SPAM TELPHONE 2"
-echo $me"║ ( ● ) "$bi"[3]"$ku" SPAM BRUTALL SMS"
-echo $me"╚══╝♪ ♪ "$bi"[4]"$ku" SPAM UNLIMITED SMS"
-echo $pr" ︻╦̵̵̿╤─ ҉ "$bi"[5]"$ku" SPAM SMS"
+echo $me"[1]"$bi" SPAM TELPHONE 1"
+echo $me"[2]"$bi" SPAM TELPHONE 2"
+echo $me"[3]"$bi" SPAM BRUTALL SMS"
+echo $me"[4]"$bi" SPAM UNLIMITED SMS"
+echo $me"[5]"$bi" SPAM SMS"
 echo
-echo $cy"█▬█ █ ▀█▀"
-   read -p "░H░A░C░K░E░R░S░ Pilih No : " pil :
+read -p "Pilih No : " pil :
 
 #batas gan
 if [ $pil = 1 ]
