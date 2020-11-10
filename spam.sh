@@ -53,7 +53,7 @@ then
 git clone https://github.com/hryar/Spam-Unlimited-Sms
 cd Spam-Unlimited-Sms
 ls
-sh unlimitedsms.sh
+sh sus.sh
 fi
 #batas gan
 if [ $pil = 5 ]
