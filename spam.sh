@@ -18,7 +18,7 @@ echo $me"╔══╗ ♪  "$bi"[1]"$ku" SPAM TELPHONE 1"
 echo $me"║██║ ♫  "$bi"[2]"$ku" SPAM TELPHONE 2"
 echo $me"║ ( ● ) "$bi"[3]"$ku" SPAM BRUTALL SMS"
 echo $me"╚══╝♪ ♪ "$bi"[4]"$ku" SPAM UNLIMITED SMS"
-echo $pr" ︻╦̵̵̿╤─ ҉ "$bi"[5]"$ku" SPAM SMS/WA GRATIS"
+echo $pr" ︻╦̵̵̿╤─ ҉ "$bi"[5]"$ku" SPAM SMS"
 echo
 echo $cy"█▬█ █ ▀█▀"
    read -p "░H░A░C░K░E░R░S░ Pilih No : " pil :
@@ -26,23 +26,23 @@ echo $cy"█▬█ █ ▀█▀"
 #batas gan
 if [ $pil = 1 ]
 then
-git clone https://github.com/termuxandi/spamtelphone
-cd spamtelphone
+git clone https://github.com/hryar/Spam-Telphone-1
+cd Spam-Telphone-1
 ls
-python Blackphone
+python2 spamtelphon1.py
 fi
 #batas gan
 if [ $pil = 2 ]
 then
-git clone https://github.com/termuxandi/spam-termux
-cd spam-termux
+git clone https://github.com/hryar/Spam-Telphone-2
+cd Spam-Telphone-2
 ls
-python SpamC.py
+python2 spamtelphone2.py
 fi
 #batas gan
 if [ $pil = 3 ]
 then
-git clone https://github.com/IL4NGQW3R/brutalspammer
+git clone https://github.com/hryar/bb
 cd brutalspammer
 ls
 python BrutalSpammer.py
