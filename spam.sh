@@ -13,7 +13,7 @@ echo $me"|  "$cy"GitHub  : "$pr"github.com/hryar          "$me"|"
 echo $me"|  "$cy"YoeTube : "$pr"HARRY ARBI                "$me"|"
 echo $me"╰━─━─━─≪✠≫─━─━──━─━──━─━──━─━─≪✠≫─━─━─━╯"
 echo
-echo $pu"MENU :
+echo $pu"MENU : "
 echo $bi"[1]"$ku" SPAM TELPHONE 1"
 echo $bi"[2]"$ku" SPAM TELPHONE 2"
 echo $bi"[3]"$ku" SPAM BRUTALL SMS"
