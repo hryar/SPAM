@@ -7,7 +7,7 @@ cy='\33[36;1m' #cyan
 me='\33[31;1m' #merah
 pu='\33[37;1m' #putih
 ku='\33[33;1m' #kuning
-echo $me"          SUBSCRIBE-LIKE-COMENT"
+echo $me"         SUBSCRIBE-LIKE-COMENTS"
 echo $ku"╭━─━─━─≪✠≫─━─━─━─━──━─━───━─━─≪✠≫─━─━─━╮"
 echo $pr"|  AUTHOR  :"$cy"Hry Ar                     |"
 echo $pr"|  YOUTUBE :"$cy"HARRY ARBI                 |"
@@ -21,7 +21,7 @@ echo $me"╚══╝♪ ♪ "$bi"[4]"$ku" SPAM UNLIMITED SMS"
 echo $pr" ︻╦̵̵̿╤─ ҉ "$bi"[5]"$ku" SPAM SMS/WA GRATIS"
 echo
 echo $cy"█▬█ █ ▀█▀"
-   read -p "|░H░A░C░K░E░R░S░ SPAM : " pil :
+   read -p "░H░A░C░K░E░R░S░ Pilih No : " pil :
 
 #batas gan
 if [ $pil = 1 ]
@@ -63,3 +63,4 @@ cd SpamSms
 ls
 python main.py
 fi
+#batas gan
