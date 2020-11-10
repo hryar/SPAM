@@ -13,13 +13,13 @@ echo $me"|  "$pr"GitHub  : "$ku"github.com/hryar          "$me"|"
 echo $me"|  "$pr"YoeTube : "$ku"HARRY ARBI                "$me"|"
 echo $me"╰━─━─━─≪✠≫─━─━──━─━──━─━──━─━─≪✠≫─━─━─━╯"
 echo
-echo $bi"[1]"$pu" SPAM TELPHONE 1"
-echo $bi"[2]"$pu" SPAM TELPHONE 2"
-echo $bi"[3]"$pu" SPAM BRUTALL SMS"
-echo $bi"[4]"$pu" SPAM UNLIMITED SMS"
-echo $bi"[5]"$pu" SPAM SMS"
+echo $bi"[1]"$cy" SPAM TELPHONE 1"
+echo $bi"[2]"$cy" SPAM TELPHONE 2"
+echo $bi"[3]"$cy" SPAM BRUTALL SMS"
+echo $bi"[4]"$cy" SPAM UNLIMITED SMS"
+echo $bi"[5]"$cy" SPAM SMS"
 echo
-read -p "$cy"Pilih No : " pil :
+read -p "Pilih No : " pil :
 
 #batas gan
 if [ $pil = 1 ]
