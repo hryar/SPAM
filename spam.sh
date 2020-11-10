@@ -10,7 +10,7 @@ ku='\33[33;1m' #kuning
 echo $me"╭━─━─━─≪✠≫─━─━─━─━─━─━─━─━─━─━─━─≪✠≫─━─━─━─━╮"
 echo $me"|  "$cy"Admin   : "$pr"Hry Ar                         "$me"|"
 echo $me"|  "$cy"GitHub  : "$pr"github.com/hryar               "$me"|"
-echo $me"|  "$cy"YoeTube : "$pr"HARRY ARBI                     "$me"|"
+echo $me"|  "$cy"YouTube : "$pr"HARRY ARBI                     "$me"|"
 echo $me"╰━─━─━─≪✠≫─━─━─━─━─━─━─━─━─━─━─━─≪✠≫─━─━─━─━╯"
 echo
 echo $ij"MENU : "
