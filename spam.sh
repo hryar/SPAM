@@ -10,11 +10,12 @@ ku='\33[33;1m' #kuning
 echo $me"╭━─━─━─≪✠≫─━─━─━─━─━─━─━─━─━─━─━─≪✠≫─━─━─━─━╮"
 echo $me"|       "$cy"Admin   "$ij": "$pr"Hry Ar                    "$me"|"
 echo $me"|       "$cy"GitHub  "$ij": "$pr"github.com/hryar          "$me"|"
-echo $me"|       "$cy"YouTube "#ij": "$pr"HARRY ARBI                "$me"|"
+echo $me"|       "$cy"YouTube "$ij": "$pr"HARRY ARBI                "$me"|"
 echo $me"╰━─━─━─≪✠≫─━─━─━─━─━─━─━─━─━─━─━─≪✠≫─━─━─━─━╯"
 echo
 echo $ij"MENU : "
 echo
+sleep 1
 echo $bi"[1]"$ku" SPAM TELPHONE 1"
 sleep 1
 echo $bi"[2]"$ku" SPAM TELPHONE 2"
@@ -24,8 +25,8 @@ sleep 1
 echo $bi"[4]"$ku" SPAM UNLIMITED SMS"
 echo $bi"[5]"$ku" SPAM SMS"
 echo
-echo $ij" Pilih No "$me":
-read -p pil :
+echo $ij" Pilih No "$me": "
+read -p
 
 #batas gan
 if [ $pil = 1 ]
