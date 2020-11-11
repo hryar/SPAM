@@ -28,7 +28,8 @@ sleep 1
 echo $bi"[5]"$ku" SPAM SMS"
 echo
 sleep 1
-echo $ij"Pilih No "$me":" read pil))
+echo $ij"Pilih No "$me":" 
+read pil
 
 #batas gan
 if [ $pil = 1 ]
