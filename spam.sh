@@ -13,6 +13,7 @@ echo $me"|       "$cy"GitHub  "$ij": "$pr"github.com/hryar          "$me"|"
 echo $me"|       "$cy"YouTube "$ij": "$pr"HARRY ARBI                "$me"|"
 echo $me"╰━─━─━─≪✠≫─━─━─━─━─━─━─━─━─━─━─━─≪✠≫─━─━─━─━╯"
 echo
+sleep 1
 echo $ij"MENU : "
 echo
 sleep 1
@@ -23,10 +24,11 @@ sleep 1
 echo $bi"[3]"$ku" SPAM BRUTALL SMS"
 sleep 1
 echo $bi"[4]"$ku" SPAM UNLIMITED SMS"
-sleep1
+sleep 1
 echo $bi"[5]"$ku" SPAM SMS"
 echo
-echo $ij"Pilih No "$me": "read pil
+sleep 1
+echo $ij"Pilih No "$me": " read pil
 
 #batas gan
 if [ $pil = 1 ]
