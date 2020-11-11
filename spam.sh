@@ -23,10 +23,10 @@ sleep 1
 echo $bi"[3]"$ku" SPAM BRUTALL SMS"
 sleep 1
 echo $bi"[4]"$ku" SPAM UNLIMITED SMS"
+sleep1
 echo $bi"[5]"$ku" SPAM SMS"
 echo
-echo $ij"Pilih No "$me": "
-read pil
+echo $ij"Pilih No "$me": "read pil
 
 #batas gan
 if [ $pil = 1 ]
