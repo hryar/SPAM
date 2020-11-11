@@ -25,8 +25,8 @@ sleep 1
 echo $bi"[4]"$ku" SPAM UNLIMITED SMS"
 echo $bi"[5]"$ku" SPAM SMS"
 echo
-echo $ij" Pilih No "$me": "
-read -p
+echo $ij"Pilih No "$me": "
+read pil
 
 #batas gan
 if [ $pil = 1 ]
